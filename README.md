@@ -1,6 +1,6 @@
 # **Task 13 Individual**
 
-#### This README will contain a Summary for the important concepts i have learnt throught the in Michael Nielsen’s Neural Networks and Deep Learning book(chapter 1)
+#### This README will contain a Summary for the important concepts i have learnt throught the in Michael Nielsen’s Neural Networks and Deep Learning book
 
 ---
 ---
